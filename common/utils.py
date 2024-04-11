@@ -125,7 +125,7 @@ def parse_args(arg_mode):
     ''' about dataset '''
     parser.add_argument('-dataset', type=str, default='miniimagenet',
                         choices=['miniimagenet','cars','Aircraft_fewshot','cub_crop'])
-    parser.add_argument('-data_dir', type=str, default='data_path', help='dir of datasets')
+    parser.add_argument('-data_dir', type=str, default='data_dir', help='dir of datasets')
 
     ''' about training specs '''
     parser.add_argument('-batch', type=int, default=128, help='auxiliary batch size')
