@@ -19,4 +19,4 @@ Please set the gpu id which you want to run,then run the file such as "bash cars
 <img src="image/acc_fine graind.png" alt="acc_fine graind" style="max-width: 75%;"> <br>
 
 # result on miniImageNet
-<img src="image/acc_mini.png" alt="acc_mini" style="max-width: 50%;"> <br>
+<img src="image/acc_mini.png" alt="acc_mini" style="max-width: 25%;"> <br>
