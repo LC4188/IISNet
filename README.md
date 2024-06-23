@@ -15,6 +15,9 @@ Please set the gpu id which you want to run,then run the file such as "bash airc
 cd /IISNet-main/test/xxx.sh <br>
 Please set the gpu id which you want to run,then run the file such as "bash cars_5w5s.sh".
 
+# Acknowledgements
+Our code is based on RENet repository. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
+
 # result on Aircraft、Cars and Cub_crop
 <img src="image/acc_fine graind.png" alt="acc_fine graind" style="max-width: 75%;height: auto;"> <br>
 
