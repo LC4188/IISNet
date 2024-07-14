@@ -8,15 +8,15 @@ abstract:Deep neural networks have invigorated research of few-shot image classi
 You need to cd /IISNet-main/common/utils.py ,to change the "-data_dir" to your dataset_dir.
 
 # Training the code 
-cd /IISNet-main/train/xxx.sh <br>
+```cd /IISNet-main/train/xxx.sh <br>
 Please set the gpu id which you want to run,then run the file such as "bash aircraft_5w1s.sh".<br>
-
+```
 # Testing the code 
-cd /IISNet-main/test/xxx.sh <br>
+```cd /IISNet-main/test/xxx.sh <br>
 Please set the gpu id which you want to run,then run the file such as "bash cars_5w5s.sh".
-
+```
 # Acknowledgements
-Our code is based on RENet repository. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
+Our code is based on [RENet](https://github.com/dahyun-kang/renet) repository. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
 
 # result on Aircraft、Cars and Cub_crop
 <img src="image/acc_fine graind.png" alt="acc_fine graind" style="max-width: 75%;height: auto;"> <br>
