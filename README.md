@@ -32,4 +32,4 @@ Our code is based on the [RENet](https://github.com/dahyun-kang/renet) repositor
 </p>
 
 # Contact
-If you have any questions, please create an issue on this repository or contact at [luchenji0310@163.com](mailto:luchenji0310@163.com).
+If you have any questions, please create an issue on this repository or contact at [email](xxx).
