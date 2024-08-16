@@ -120,7 +120,7 @@ def by(s):
 
 
 def parse_args(arg_mode):
-    parser = argparse.ArgumentParser(description='Irrelevant Information Suppression for Few-Shot Classification')
+    parser = argparse.ArgumentParser(description='Clarity in Chaos: Boosting Few-Shot Classification through Information Suppression and Sparsification')
 
     ''' about dataset '''
     parser.add_argument('-dataset', type=str, default='miniimagenet',
